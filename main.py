@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import sys, tarfile, os.path, getopt, json
 from datetime import datetime
 from google.auth.transport.requests import Request
